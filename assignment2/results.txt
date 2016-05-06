@@ -1,0 +1,91 @@
+Results:
+
+LZW (Unmodified)
+	File				Uncompressed Size	Compressed Size		Compression Ratio		
+	-----------------	-----------------	---------------		-----------------
+	Lego-big.gif		93371 B				128973 B			0.7240
+	all.tar				3031040 B			1846854 B			1.6412
+	assig2.doc			87040 B				74574 B				1.1672
+	bmps.tar			1105920 B			925079 B			1.1955
+	code.txt			72351 B				30980 B				2.3354
+	code2.txt			57701 B				24138 B				2.3905
+	edit.exe			236328 B			250742 B			0.9425
+	frosty.jpg			126748 B			177453 B			0.7143
+	gone_fishing.bmp	17336 B				9278 B				1.8685
+	large.txt			1220703 B			605184 B			2.0171
+	medium.txt			25407 B				13197 B				1.9252
+	texts.tar			1382400 B			1012179 B			1.3658
+	wacky.bmp			921654 B			4302 B				214.24
+	winnt256.bmp		157044 B			159050 B			0.9874
+
+MyLZW (Do Nothing Mode)
+	File				Uncompressed Size	Compressed Size		Compression Ratio		
+	-----------------	-----------------	---------------		-----------------
+	Lego-big.gif		93371 B				122493 B			0.7623
+	all.tar				3031040 B			1792781 B			1.6907
+	assig2.doc			87040 B				40039 B				2.1739
+	bmps.tar			1105920 B			80913 B				13.668
+	code.txt			72351 B				24544 B				2.9478
+	code2.txt			57701 B				20515 B				2.8126
+	edit.exe			236328 B			156409 B			1.5110
+	frosty.jpg			126748 B			163789 B			0.7738
+	gone_fishing.bmp	17336 B				8963 B				1.9342
+	large.txt			1220703 B			501777 B			2.4328
+	medium.txt			25407 B				12530 B				2.0277
+	texts.tar			1382400 B			597847 B			2.3123
+	wacky.bmp			921654 B			3951 B				233.27
+	winnt256.bmp		157044 B			62931 B				2.4955
+
+MyLZW (Reset Mode)
+	File				Uncompressed Size	Compressed Size		Compression Ratio		
+	-----------------	-----------------	---------------		-----------------
+	Lego-big.gif		93371 B				122493 B			0.7623			
+	all.tar				3031040 B			1178221 B			2.5726		
+	assig2.doc			87040 B				40039 B				2.1739
+	bmps.tar			1105920 B			80913 B				13.668
+	code.txt			72351 B				24544 B				2.9478
+	code2.txt			57701 B				20515 B				2.8126
+	edit.exe			236328 B			152226 B			1.5525
+	frosty.jpg			126748 B			171169 B			0.7405
+	gone_fishing.bmp	17336 B				8963 B				1.9342
+	large.txt			1220703 B			527505 B			2.3141
+	medium.txt			25407 B				12530 B				2.0277		
+	texts.tar			1382400 B			590474 B			2.3412
+	wacky.bmp			921654 B			3951 B				233.27		
+	winnt256.bmp		157044 B			62931 B				2.4955
+
+MyLZW (Monitor Mode)
+	File				Uncompressed Size	Compressed Size		Compression Ratio		
+	-----------------	-----------------	---------------		-----------------
+	Lego-big.gif		93371 B				122493 B			0.7623
+	all.tar				3031040 B			1819873 B			1.6655
+	assig2.doc			87040 B				40039 B				2.1739
+	bmps.tar			1105920 B			80913 B				13.668
+	code.txt			72351 B				24544 B				2.9478
+	code2.txt			57701 B				20515 B				2.8126
+	edit.exe			236328 B			156409 B			1.5110
+	frosty.jpg			126748 B			163789 B			0.7738
+	gone_fishing.bmp	17336 B				8963 B				1.9342
+	large.txt			1220703 B			501777 B 			2.4328
+	medium.txt			25407 B				12530 B				2.0277
+	texts.tar			1382400 B			597847 B			2.3123			
+	wacky.bmp			921654 B			3951 B				233.27
+	winnt256.bmp		157044 B			62931 B				2.4955
+
+WinZIP
+	File				Uncompressed Size	Compressed Size		Compression Ratio		
+	-----------------	-----------------	---------------		-----------------
+	Lego-big.gif		93371 B				92565 B				1.0087
+	all.tar				3031040 B			980783 B			3.0904
+	assig2.doc			87040 B				22121 B				3.9347
+	bmps.tar			1105920 B			64537 B				17.136
+	code.txt			72351 B				14434 B				5.0125
+	code2.txt			57701 B				12859 B				4.4872
+	edit.exe			236328 B			120122 B			1.9674
+	frosty.jpg			126748 B			126784 B			0.9997
+	gone_fishing.bmp	17336 B				8330 B				2.0812
+	large.txt			1220703 B			471477 B			2.5891
+	medium.txt			25407 B				10476 B				2.4253
+	texts.tar			1382400 B			543247 B			1.3650
+	wacky.bmp			921654 B			3136 B				293.89
+	winnt256.bmp		157044 B			45091 B				3.4828
